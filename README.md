@@ -153,8 +153,3 @@ outputs/<run_id>/
 
 The public `.gitignore` excludes outputs, checkpoints, local data, caches, and
 notebooks by default.
-
-## Notes
-
-- This code is for research use and reproducibility of the manuscript analysis.
-- No source cohort data are redistributed here.
