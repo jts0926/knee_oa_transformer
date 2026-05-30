@@ -1,0 +1,30 @@
+# Local data and generated outputs
+data/*
+!data/README.md
+outputs/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Notebooks often contain local paths and outputs
+*.ipynb
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Manuscript/local artifacts
+manuscript/
+*.docx
+*.pptx
