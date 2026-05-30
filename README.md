@@ -158,4 +158,3 @@ notebooks by default.
 
 - This code is for research use and reproducibility of the manuscript analysis.
 - No source cohort data are redistributed here.
-- Add an explicit license before making the repository public.
